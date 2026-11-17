@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">LotoAnalytics Colombia</string>
+    <string name="nav_home">Inicio</string>
+    <string name="nav_results">Resultados</string>
+    <string name="nav_stats">Estadísticas</string>
+    <string name="nav_generator">Generador</string>
+    <string name="nav_history">Historial</string>
+    <string name="sync_data">Sincronizar datos</string>
+    <string name="syncing_data">Sincronizando…</string>
+    <string name="last_update_label">Última actualización</string>
+    <string name="never_synced">Sin sincronizar</string>
+    <string name="total_records_label">Registros consultados</string>
+    <string name="latest_draw_label">Último resultado registrado</string>
+    <string name="available_lotteries_label">Loterías disponibles</string>
+    <string name="statistical_disclaimer">Aviso estadístico: Los sorteos de lotería son eventos independientes. Las frecuencias históricas son únicamente descriptivas y no garantizan ni predicen resultados futuros.</string>
+    <string name="saved_favorite_confirmation">Combinación guardada en favoritas.</string>
+    <string name="deleted_favorite_confirmation">Combinación eliminada de favoritas.</string>
+    <string name="empty_data_title">Sin registros disponibles</string>
+    <string name="empty_data_hint">Sincroniza con el portal oficial datos.gov.co para descargar los sorteos históricos.</string>
+    <string name="retry_action">Reintentar</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "LotoAnalytics Colombia",
+  "description": "Aplicación Android para consultar resultados históricos de loterías colombianas desde datos.gov.co, realizar análisis estadísticos y generar combinaciones para Chance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
